@@ -32,21 +32,21 @@ A passionate MERN Stack Developer || Frontend Developer from Bangladesh
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts" />
+      <img src="https://skillicons.dev/icons?i=js,py" />
     </td>
   </tr>
 
   <tr>
     <td><b>Frontend Technologies</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,vue" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs," />
     </td>
   </tr>
 
   <tr>
     <td><b>Back-End Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express," />
     </td>
   </tr>
 

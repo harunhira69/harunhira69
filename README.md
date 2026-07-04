@@ -1,9 +1,6 @@
 <!-- ========================================================= -->
-
 <!--                 GitHub Profile README                    -->
-
 <!--                         HARUN                            -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -64,11 +61,11 @@ I started my journey with frontend development and gradually moved deeper into b
 
 My goal is to build software that is:
 
-* Fast and responsive
-* Secure and scalable
-* Cleanly structured
-* Easy to maintain
-* Useful for real-world users
+- Fast and responsive
+- Secure and scalable
+- Cleanly structured
+- Easy to maintain
+- Useful for real-world users
 
 I believe great software is not only about writing code. It is about solving real problems with clean design, strong logic, and continuous improvement.
 
@@ -78,13 +75,13 @@ I believe great software is not only about writing code. It is about solving rea
 
 Currently, I am focused on improving my backend and full stack engineering skills by building real-world applications.
 
-* Building production-ready full stack projects
-* Learning advanced **TypeScript**
-* Working with **Node.js**, **Express.js**, and **REST APIs**
-* Exploring **Prisma ORM** and **PostgreSQL**
-* Implementing secure authentication using **JWT**
-* Integrating secure payments using **Stripe**
-* Learning system design, Docker, and cloud deployment
+- Building production-ready full stack projects
+- Learning advanced **TypeScript**
+- Working with **Node.js**, **Express.js**, and **REST APIs**
+- Exploring **Prisma ORM** and **PostgreSQL**
+- Implementing secure authentication using **JWT**
+- Integrating secure payments using **Stripe**
+- Learning system design, Docker, and cloud deployment
 
 ---
 
@@ -135,16 +132,16 @@ Currently, I am focused on improving my backend and full stack engineering skill
 
 ## 🚀 What I Can Build
 
-* Full Stack Web Applications
-* Modern React Applications
-* REST APIs
-* Authentication & Authorization Systems
-* Admin Dashboards
-* CRUD Applications
-* E-Commerce Features
-* Stripe Payment Integration
-* Database Design
-* Responsive User Interfaces
+- Full Stack Web Applications
+- Modern React Applications
+- REST APIs
+- Authentication & Authorization Systems
+- Admin Dashboards
+- CRUD Applications
+- E-Commerce Features
+- Stripe Payment Integration
+- Database Design
+- Responsive User Interfaces
 
 ---
 
@@ -156,13 +153,13 @@ A production-ready blogging platform with premium subscriptions, secure authenti
 
 **Key Features**
 
-* JWT Authentication & Authorization
-* Stripe Subscription System
-* Prisma ORM with PostgreSQL
-* AWS S3 Image Upload
-* Role-Based Access Control
-* REST API Architecture
-* Clean Backend Folder Structure
+- JWT Authentication & Authorization
+- Stripe Subscription System
+- Prisma ORM with PostgreSQL
+- AWS S3 Image Upload
+- Role-Based Access Control
+- REST API Architecture
+- Clean Backend Folder Structure
 
 **Tech Stack**
 
@@ -178,23 +175,23 @@ SkillSwap is a modern learning platform where learners and mentors can connect a
 
 **Key Features**
 
-* Firebase Authentication
-* Google Sign-In
-* Protected Routes
-* Responsive UI
-* Swiper Hero Slider
-* AOS Scroll Animations
-* Toast Notifications
-* Context API State Management
+- Firebase Authentication
+- Google Sign-In
+- Protected Routes
+- Responsive UI
+- Swiper Hero Slider
+- AOS Scroll Animations
+- Toast Notifications
+- Context API State Management
 
 **Tech Stack**
 
 `React` • `Firebase` • `Tailwind CSS` • `React Router` • `AOS` • `Swiper`
 
-**Live Demo:**
+**Live Demo:**  
 https://react-skilswap.web.app
 
-**GitHub Repository:**
+**GitHub Repository:**  
 https://github.com/harunhira69/React-skilswap
 
 ---
@@ -205,23 +202,23 @@ PawMart is a community-driven platform that combines pet adoption and an online 
 
 **Key Features**
 
-* Pet Adoption Platform
-* Product Marketplace
-* Firebase Authentication
-* PDF Report Generation
-* Dark / Light Theme
-* Fully Responsive Design
-* Framer Motion Animations
-* CRUD Operations
+- Pet Adoption Platform
+- Product Marketplace
+- Firebase Authentication
+- PDF Report Generation
+- Dark / Light Theme
+- Fully Responsive Design
+- Framer Motion Animations
+- CRUD Operations
 
 **Tech Stack**
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Firebase` • `Tailwind CSS`
 
-**Live Demo:**
+**Live Demo:**  
 https://pawmart-adf30.web.app
 
-**GitHub Repository:**
+**GitHub Repository:**  
 https://github.com/harunhira69/PawMart-client
 
 ---
@@ -232,22 +229,22 @@ A relational database project focused on database design, SQL queries, normaliza
 
 **Key Features**
 
-* ERD Design
-* PostgreSQL Database Schema
-* JOIN Operations
-* Aggregate Functions
-* Constraints
-* SQL Query Practice
-* Business Logic Modeling
+- ERD Design
+- PostgreSQL Database Schema
+- JOIN Operations
+- Aggregate Functions
+- Constraints
+- SQL Query Practice
+- Business Logic Modeling
 
 **Tech Stack**
 
 `PostgreSQL` • `SQL` • `Lucidchart`
 
-**GitHub Repository:**
+**GitHub Repository:**  
 https://github.com/harunhira69/football_ticket_booking
 
-**Backend:**
+**Backend:**  
 https://express-server-beryl-delta.vercel.app/
 
 ---
@@ -256,9 +253,7 @@ https://express-server-beryl-delta.vercel.app/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harunhira69&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunhira69&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunhira69&theme=github_dark" alt="GitHub Profile Summary" />
 
 </div>
 
@@ -266,27 +261,9 @@ https://express-server-beryl-delta.vercel.app/
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harunhira69&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harunhira69&theme=github_dark" alt="GitHub Stats" />
 
-</div>
-
----
-
-## 📈 Dynamic Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harunhira69&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🧾 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunhira69&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harunhira69&theme=github_dark&utcOffset=6" alt="Productive Time" />
 
 </div>
 
@@ -300,23 +277,23 @@ https://express-server-beryl-delta.vercel.app/
 
 </div>
 
-<br />
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harunhira69&theme=github_dark" alt="Summary Stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harunhira69&theme=github_dark&utcOffset=6" alt="Productive Time" />
+<img src="https://streak-stats.demolab.com?user=harunhira69&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harunhira69&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harunhira69&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -339,13 +316,13 @@ Learning Style       : Learn → Build → Debug → Improve
 
 ## 🎯 2026 Goals
 
-* Build production-ready SaaS applications
-* Master TypeScript and Prisma
-* Become highly proficient with PostgreSQL
-* Learn Docker and AWS deployment
-* Contribute to open-source projects
-* Improve system design knowledge
-* Write clean, scalable, and maintainable code
+- Build production-ready SaaS applications
+- Master TypeScript and Prisma
+- Become highly proficient with PostgreSQL
+- Learn Docker and AWS deployment
+- Contribute to open-source projects
+- Improve system design knowledge
+- Write clean, scalable, and maintainable code
 
 ---
 
@@ -355,23 +332,23 @@ I am open to collaborating on meaningful projects and learning from experienced 
 
 I am interested in:
 
-* Full Stack Web Applications
-* Backend APIs
-* Developer Tools
-* Open Source Projects
-* Frontend UI Projects
-* Community Learning Projects
+- Full Stack Web Applications
+- Backend APIs
+- Developer Tools
+- Open Source Projects
+- Frontend UI Projects
+- Community Learning Projects
 
 ---
 
 ## 💼 Open To
 
-* Full Stack Developer Opportunities
-* Backend Developer Roles
-* Freelance Projects
-* Open Source Collaboration
-* Technical Collaboration
-* Learning Opportunities
+- Full Stack Developer Opportunities
+- Backend Developer Roles
+- Freelance Projects
+- Open Source Collaboration
+- Technical Collaboration
+- Learning Opportunities
 
 ---
 
@@ -379,14 +356,14 @@ I am interested in:
 
 <div align="center">
 
-| Platform    | Link                                                                                        |
-| ----------- | ------------------------------------------------------------------------------------------- |
-| Email       | [harunabhi4@gmail.com](mailto:harunabhi4@gmail.com)                                         |
-| Portfolio   | [portfolio-harun-liard.vercel.app](https://portfolio-harun-liard.vercel.app/)               |
-| LinkedIn    | [linkedin.com/in/harunmern](https://www.linkedin.com/in/harunmern/)                         |
-| GitHub      | [github.com/harunhira69](https://github.com/harunhira69)                                    |
-| X / Twitter | [@harunabhi4](https://x.com/harunabhi4)                                                     |
-| Resume      | [Download Resume](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd) |
+| Platform | Link |
+|---|---|
+| Email | [harunabhi4@gmail.com](mailto:harunabhi4@gmail.com) |
+| Portfolio | [portfolio-harun-liard.vercel.app](https://portfolio-harun-liard.vercel.app/) |
+| LinkedIn | [linkedin.com/in/harunmern](https://www.linkedin.com/in/harunmern/) |
+| GitHub | [github.com/harunhira69](https://github.com/harunhira69) |
+| X / Twitter | [@harunabhi4](https://x.com/harunabhi4) |
+| Resume | [Download Resume](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd) |
 
 </div>
 
@@ -394,19 +371,11 @@ I am interested in:
 
 ## 💡 Development Philosophy
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat
-```
+<div align="center">
+
+### Learn → Build → Break → Debug → Improve → Repeat
+
+</div>
 
 I believe consistent practice, clean code, curiosity, and real-world project building are the best ways to grow as a developer.
 
@@ -414,11 +383,11 @@ I believe consistent practice, clean code, curiosity, and real-world project bui
 
 ## ⚡ Fun Facts
 
-* I learn best by building real-world projects.
-* I enjoy exploring how technologies work behind the scenes.
-* I prefer building projects over only watching tutorials.
-* Every project teaches me something new.
-* I am always looking for opportunities to grow as a developer.
+- I learn best by building real-world projects.
+- I enjoy exploring how technologies work behind the scenes.
+- I prefer building projects over only watching tutorials.
+- Every project teaches me something new.
+- I am always looking for opportunities to grow as a developer.
 
 ---
 

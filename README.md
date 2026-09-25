@@ -100,9 +100,9 @@ Backend API for a gear rental platform with authentication, users, providers, ge
 
 ### PrismaPress
 
-TypeScript backend for a publishing platform with authentication, users, posts, comments, and subscription workflows.
+TypeScript backend for a publishing platform with authentication, user profiles, post workflows, and Stripe subscriptions; the comments domain is currently being completed.
 
-**Engineering:** auth module • content APIs • subscription flow • Prisma/PostgreSQL persistence  
+**Engineering:** JWT auth • profile workflows • post CRUD/search/stats • subscription flow • Prisma/PostgreSQL persistence  
 **Stack:** `TypeScript` • `Express.js` • `Prisma` • `PostgreSQL` • `JWT` • `Stripe`
 
 <p>

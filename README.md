@@ -199,18 +199,6 @@ NestJS is part of my current backend growth path, so I use it in active project 
 
 ---
 
-## ↗ GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunhira69&theme=github_dark" alt="Harun's GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunhira69&theme=github-compact&hide_border=true&area=true" alt="Harun's GitHub contribution activity" />
-</p>
-
----
-
 ## 🤝 Collaboration & Opportunities
 
 I am open to **Full Stack Developer** and **Backend Developer** opportunities, technical collaboration, meaningful freelance work, and open-source contribution.

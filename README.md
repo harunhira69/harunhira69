@@ -1,419 +1,231 @@
-<!-- ========================================================= -->
-<!--                 GitHub Profile README                    -->
-<!--                         HARUN                            -->
-<!-- ========================================================= -->
+<!--
+  GitHub Profile README — Harun
+  Positioning: Backend-Focused Full Stack Developer
+-->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/profile/hero.svg" alt="Harun — Backend-Focused Full Stack Developer" width="100%" />
+</p>
 
-# Hi, I'm Harun 👋
+<p align="center">
+  <a href="https://portfolio-harun-liard.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/harunmern/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd">
+    <img src="https://img.shields.io/badge/Resume-View-334155?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:harunabhi4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### Full Stack Developer | React • Next.js • Node.js • TypeScript
-
-I build modern, scalable, and user-focused web applications using JavaScript technologies, clean architecture, and real-world problem-solving.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+Prisma+%7C+PostgreSQL;JWT+%7C+REST+API+%7C+Stripe;Building+Real-World+Web+Applications" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://portfolio-harun-liard.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="mailto:harunabhi4@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/harunmern/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/harunhira69" target="_blank">
-<img src="https://img.shields.io/github/followers/harunhira69?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://x.com/harunabhi4" target="_blank">
-<img src="https://img.shields.io/badge/X-@harunabhi4-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=harunhira69&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
-
-<img src="https://img.shields.io/badge/Open_to-Full_Stack_Projects-success?style=flat-square" alt="Open to Projects" />
-
-</div>
+<p align="center">
+  I build secure, scalable, and maintainable web applications with a strong focus on
+  <strong>backend engineering</strong>, API design, authentication, database architecture,
+  and modern full-stack development.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Engineering Snapshot
 
-I'm **Harun**, a passionate **Full Stack Developer from Bangladesh** who enjoys building complete, production-ready web applications.
+| Area | Working With |
+| --- | --- |
+| **Backend** | Node.js, Express.js, NestJS |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Data** | PostgreSQL, Prisma, MongoDB |
+| **Security** | JWT, RBAC, protected routes, secure auth flows |
+| **Payments** | Stripe and payment workflows |
+| **Engineering** | REST APIs, validation, error handling, modular application design |
 
-I started my journey with frontend development and gradually moved deeper into backend engineering, API design, authentication, database architecture, and payment integration.
-
-My goal is to build software that is:
-
-- Fast and responsive
-- Secure and scalable
-- Cleanly structured
-- Easy to maintain
-- Useful for real-world users
-
-I believe great software is not only about writing code. It is about solving real problems with clean design, strong logic, and continuous improvement.
+I started with frontend development and gradually moved deeper into backend engineering, relational data modeling, authentication, payments, and production-oriented application structure. My current direction is becoming a stronger backend-focused full stack engineer without losing the ability to build polished frontend experiences.
 
 ---
 
-## 🎯 Current Focus
+## ⌁ What I Engineer
 
-Currently, I am focused on improving my backend and full stack engineering skills by building real-world applications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Building production-ready full stack projects
-- Learning advanced **TypeScript**
-- Working with **Node.js**, **Express.js**, and **REST APIs**
-- Exploring **Prisma ORM** and **PostgreSQL**
-- Implementing secure authentication using **JWT**
-- Integrating secure payments using **Stripe**
-- Learning system design, Docker, and cloud deployment
+### Backend Systems
 
----
+- REST API architecture
+- Authentication & authorization
+- Role-based access control
+- Validation & error handling
+- Payment and subscription workflows
+- Modular service architecture
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### Full-Stack Systems
 
-### Programming Languages
+- React / Next.js interfaces
+- API-to-frontend integration
+- Relational database design
+- CRUD and dashboard workflows
+- Secure client/server data flow
+- Responsive application experiences
 
-<img src="https://skillicons.dev/icons?i=js,ts,python" alt="Programming Languages" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Frontend Skills" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
-
-<br />
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" height="48" alt="Prisma" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" height="48" alt="Stripe" />
-
-### Authentication & Security
-
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
-<img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" />
-<img src="https://img.shields.io/badge/Protected_Routes-Secure-2563EB?style=for-the-badge" alt="Protected Routes" />
-<img src="https://img.shields.io/badge/Role_Based_Access-Control-7C3AED?style=for-the-badge" alt="Role Based Access Control" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
-
-### API & Payment
-
-<img src="https://img.shields.io/badge/REST_API-Backend-0EA5E9?style=for-the-badge" alt="REST API" />
-<img src="https://img.shields.io/badge/Stripe-Payment_Integration-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Payment Integration" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" alt="Tools" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I Can Build
+## ◈ Featured Engineering Work
 
-- Full Stack Web Applications
-- Modern React Applications
-- REST APIs
-- Authentication & Authorization Systems
-- Admin Dashboards
-- CRUD Applications
-- E-Commerce Features
-- Stripe Payment Integration
-- Database Design
-- Responsive User Interfaces
+### GearUp Backend
 
----
+Backend API for a gear rental platform with authentication, users, providers, gear, rentals, reviews, payments, categories, and admin workflows.
 
-## 📌 Featured Projects
+**Engineering:** modular backend structure • Prisma data access • authentication • payments • rental workflows  
+**Stack:** `TypeScript` • `Express.js` • `Prisma` • `PostgreSQL` • `JWT` • `Stripe` • `Zod`
 
-### 📰 PrismaPress
-
-A production-ready blogging platform with premium subscriptions, secure authentication, and scalable backend architecture.
-
-**Key Features**
-
-- JWT Authentication & Authorization
-- Stripe Subscription System
-- Prisma ORM with PostgreSQL
-- AWS S3 Image Upload
-- Role-Based Access Control
-- REST API Architecture
-- Clean Backend Folder Structure
-
-**Tech Stack**
-
-`React` • `TypeScript` • `Node.js` • `Express.js` • `Prisma` • `PostgreSQL` • `JWT` • `Stripe` • `AWS S3`
-
-**Status:** In Active Development
+<p>
+  <a href="https://github.com/harunhira69/gearup-backend">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="GearUp Backend source" />
+  </a>
+  <a href="https://gearup-backend-tan.vercel.app/">
+    <img src="https://img.shields.io/badge/API-Live-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="GearUp Backend live API" />
+  </a>
+</p>
 
 ---
 
-### 🎓 SkillSwap
+### PrismaPress
 
-SkillSwap is a modern learning platform where learners and mentors can connect and share knowledge through a smooth web experience.
+TypeScript backend for a publishing platform with authentication, users, posts, comments, and subscription workflows.
 
-**Key Features**
+**Engineering:** auth module • content APIs • subscription flow • Prisma/PostgreSQL persistence  
+**Stack:** `TypeScript` • `Express.js` • `Prisma` • `PostgreSQL` • `JWT` • `Stripe`
 
-- Firebase Authentication
-- Google Sign-In
-- Protected Routes
-- Responsive UI
-- Swiper Hero Slider
-- AOS Scroll Animations
-- Toast Notifications
-- Context API State Management
-
-**Tech Stack**
-
-`React` • `Firebase` • `Tailwind CSS` • `React Router` • `AOS` • `Swiper`
-
-**Live Demo:**  
-https://react-skilswap.web.app
-
-**GitHub Repository:**  
-https://github.com/harunhira69/React-skilswap
+<p>
+  <a href="https://github.com/harunhira69/prisma_press">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="PrismaPress source" />
+  </a>
+</p>
 
 ---
 
-### 🐾 PawMart
+### Football Ticket Booking — Database Design
 
-PawMart is a community-driven platform that combines pet adoption and an online marketplace into one user-friendly application.
+Relational database project modeling users, football matches, and ticket bookings with PostgreSQL.
 
-**Key Features**
+**Engineering:** ERD • primary/foreign keys • constraints • joins • aggregates • subqueries • business rules  
+**Stack:** `PostgreSQL` • `SQL` • `Lucidchart`
 
-- Pet Adoption Platform
-- Product Marketplace
-- Firebase Authentication
-- PDF Report Generation
-- Dark / Light Theme
-- Fully Responsive Design
-- Framer Motion Animations
-- CRUD Operations
-
-**Tech Stack**
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Firebase` • `Tailwind CSS`
-
-**Live Demo:**  
-https://pawmart-adf30.web.app
-
-**GitHub Repository:**  
-https://github.com/harunhira69/PawMart-client
+<p>
+  <a href="https://github.com/harunhira69/football_ticket_booking">
+    <img src="https://img.shields.io/badge/Database_Project-GitHub-181717?style=flat-square&logo=postgresql&logoColor=white" alt="Football Ticket Booking repository" />
+  </a>
+</p>
 
 ---
 
-### ⚽ Football Ticket Booking System
+### PawMart
 
-A relational database project focused on database design, SQL queries, normalization, and business logic implementation.
+Full-stack pet adoption and supply marketplace with user authentication, protected workflows, listings, orders, and downloadable reports.
 
-**Key Features**
+**Engineering:** full-stack integration • Firebase auth • protected routes • CRUD workflows • MongoDB API  
+**Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Firebase` • `Tailwind CSS`
 
-- ERD Design
-- PostgreSQL Database Schema
-- JOIN Operations
-- Aggregate Functions
-- Constraints
-- SQL Query Practice
-- Business Logic Modeling
-
-**Tech Stack**
-
-`PostgreSQL` • `SQL` • `Lucidchart`
-
-**GitHub Repository:**  
-https://github.com/harunhira69/football_ticket_booking
-
-**Backend:**  
-https://express-server-beryl-delta.vercel.app/
+<p>
+  <a href="https://github.com/harunhira69/PawMart-client">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="PawMart source" />
+  </a>
+  <a href="https://pawmart-adf30.web.app">
+    <img src="https://img.shields.io/badge/Live_App-Open-2563EB?style=flat-square&logo=firebase&logoColor=white" alt="PawMart live app" />
+  </a>
+</p>
 
 ---
 
-## 📊 Dynamic GitHub Analytics
+### Personal Portfolio
 
-<div align="center">
+My developer portfolio focused on project storytelling, modern interaction design, and recruiter-friendly presentation.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunhira69&theme=github_dark" alt="GitHub Profile Summary" />
+**Engineering:** responsive React UI • animated interaction patterns • personal brand presentation  
+**Stack:** `React` • `GSAP` • `Vite` • `Sass`
 
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harunhira69&theme=github_dark" alt="GitHub Stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harunhira69&theme=github_dark&utcOffset=6" alt="Productive Time" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harunhira69&theme=github_dark" alt="Repos Per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harunhira69&theme=github_dark" alt="Most Commit Language" />
-
-</div>
+<p>
+  <a href="https://github.com/harunhira69/portfolio-harun">
+    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github" alt="Portfolio source" />
+  </a>
+  <a href="https://portfolio-harun-liard.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio live website" />
+  </a>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## ◎ Current Build & Exploration
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harunhira69&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harunhira69&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-I am continuously improving my skills by learning and building real projects.
+I am currently deepening my backend engineering skills through real project work and focused exploration.
 
 ```text
-Currently Learning   : TypeScript, Prisma, PostgreSQL
-Main Focus           : Backend Engineering
-Building             : Stripe Subscription System
-Authentication       : JWT, Firebase Auth
-Goal                 : Backend-Focused Full Stack Engineer
-Learning Style       : Learn → Build → Debug → Improve
+Exploring      : NestJS, Fastify, modular backend architecture
+Backend Focus  : Secure authentication, APIs, validation, error handling
+Data           : Prisma + PostgreSQL
+Engineering    : Testing, production patterns, system design fundamentals
+DevOps         : Docker and deployment workflows
+Approach       : Learn → Build → Test → Debug → Improve
 ```
 
----
-
-## 🎯 2026 Goals
-
-- Build production-ready SaaS applications
-- Master TypeScript and Prisma
-- Become highly proficient with PostgreSQL
-- Learn Docker and AWS deployment
-- Contribute to open-source projects
-- Improve system design knowledge
-- Write clean, scalable, and maintainable code
+NestJS is part of my current backend growth path, so I use it in active project work while continuing to strengthen the underlying architecture and production patterns.
 
 ---
 
-## 🤝 Open Source & Collaboration
+## ◇ Engineering Toolbox
 
-I am open to collaborating on meaningful projects and learning from experienced developers.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,html,css,tailwind,postgres,prisma,mongodb,docker,git,github,vscode,postman,firebase" alt="Harun's engineering toolbox" />
+</p>
 
-I am interested in:
-
-- Full Stack Web Applications
-- Backend APIs
-- Developer Tools
-- Open Source Projects
-- Frontend UI Projects
-- Community Learning Projects
-
----
-
-## 💼 Open To
-
-- Full Stack Developer Opportunities
-- Backend Developer Roles
-- Freelance Projects
-- Open Source Collaboration
-- Technical Collaboration
-- Learning Opportunities
+| Category | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, SQL, Python |
+| **Backend** | Node.js, Express.js, NestJS |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Databases & ORM** | PostgreSQL, MongoDB, Prisma |
+| **Authentication & Security** | JWT, RBAC, Firebase Authentication |
+| **Payments** | Stripe |
+| **Tools** | Git, GitHub, Postman, Docker, VS Code |
 
 ---
 
-## 📬 Contact Me
+## ↗ GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunhira69&theme=github_dark" alt="Harun's GitHub profile summary" />
+</p>
 
-| Platform | Link |
-|---|---|
-| Email | [harunabhi4@gmail.com](mailto:harunabhi4@gmail.com) |
-| Portfolio | [portfolio-harun-liard.vercel.app](https://portfolio-harun-liard.vercel.app/) |
-| LinkedIn | [linkedin.com/in/harunmern](https://www.linkedin.com/in/harunmern/) |
-| GitHub | [github.com/harunhira69](https://github.com/harunhira69) |
-| X / Twitter | [@harunabhi4](https://x.com/harunabhi4) |
-| Resume | [Download Resume](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd) |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harunhira69&theme=github-compact&hide_border=true&area=true" alt="Harun's GitHub contribution activity" />
+</p>
 
 ---
 
-## 💡 Development Philosophy
+## 🤝 Collaboration & Opportunities
 
-<div align="center">
+I am open to **Full Stack Developer** and **Backend Developer** opportunities, technical collaboration, meaningful freelance work, and open-source contribution.
 
-### Learn → Build → Break → Debug → Improve → Repeat
+If you are building something where secure APIs, authentication, data modeling, payment workflows, or full-stack implementation matter, feel free to connect.
 
-</div>
+<p align="center">
+  <a href="https://portfolio-harun-liard.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Work-Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Harun's portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/harunmern/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Harun on LinkedIn" />
+  </a>
+</p>
 
-I believe consistent practice, clean code, curiosity, and real-world project building are the best ways to grow as a developer.
-
----
-
-## ⚡ Fun Facts
-
-- I learn best by building real-world projects.
-- I enjoy exploring how technologies work behind the scenes.
-- I prefer building projects over only watching tutorials.
-- Every project teaches me something new.
-- I am always looking for opportunities to grow as a developer.
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile ❤️
-
-If you like my work, feel free to connect with me or explore my repositories.
-
-<br />
-
-<a href="https://portfolio-harun-liard.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-2563EB?style=for-the-badge" alt="Portfolio" />
-</a>
-
-<a href="mailto:harunabhi4@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/harunmern/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-
-<br />
-<br />
-
-**Full Stack Developer • Lifelong Learner • Open Source Enthusiast**
-
-</div>
+<p align="center">
+  <sub>Backend-Focused Full Stack Developer • Building secure, scalable web systems</sub>
+</p>

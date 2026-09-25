@@ -1,182 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Harun — Backend-Focused Full Stack Developer</title>
-  <desc id="desc">Premium animated engineering banner with backend architecture, technologies, and open-to-work status.</desc>
+  <desc id="desc">A dark engineering-console style banner highlighting TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL and Prisma.</desc>
+
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#050b16"/>
-      <stop offset=".45" stop-color="#07152b"/>
-      <stop offset="1" stop-color="#04101c"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#08101d"/>
     </linearGradient>
-    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(250 105) rotate(25) scale(520 300)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1d4ed8" stop-opacity=".34"/>
-      <stop offset="1" stop-color="#1d4ed8" stop-opacity="0"/>
+
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(238 86) rotate(35) scale(420 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(940 195) rotate(-18) scale(420 260)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#06b6d4" stop-opacity=".22"/>
+
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(1022 260) rotate(-150) scale(360 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06b6d4" stop-opacity=".18"/>
       <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="nameGrad" x1="78" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#f8fafc"/>
-      <stop offset=".42" stop-color="#dbeafe"/>
-      <stop offset=".72" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#60a5fa"/>
-    </linearGradient>
-    <linearGradient id="roleGrad" x1="80" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#e2e8f0"/>
-      <stop offset=".47" stop-color="#e2e8f0"/>
-      <stop offset=".48" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#3b82f6"/>
-    </linearGradient>
-    <linearGradient id="flowGrad" x1="720" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2563eb"/>
-      <stop offset=".45" stop-color="#22d3ee"/>
+
+    <linearGradient id="accent" x1="96" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60a5fa"/>
+      <stop offset=".52" stop-color="#22d3ee"/>
       <stop offset="1" stop-color="#8b5cf6"/>
     </linearGradient>
-    <linearGradient id="shine" x1="0" y1="0" x2="180" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#fff" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#7dd3fc" stroke-opacity=".045" stroke-width="1"/>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".06" stroke-width="1"/>
     </pattern>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="6"/>
-    </filter>
+
     <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="12"/>
+      <feGaussianBlur stdDeviation="8"/>
     </filter>
-    <clipPath id="nameClip">
-      <text x="72" y="163" class="sans" font-size="70" font-weight="900" letter-spacing="1.5">HARUN</text>
-    </clipPath>
+
     <style>
       .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
       .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
-      .node { fill:#08162a; stroke:#38bdf8; stroke-opacity:.52; stroke-width:1.3; }
-      .flow { stroke:url(#flowGrad); stroke-width:2; fill:none; stroke-linecap:round; stroke-dasharray:8 10; animation:dash 5s linear infinite; }
-      .flow2 { stroke:#22d3ee; stroke-width:1.1; fill:none; stroke-linecap:round; stroke-dasharray:3 11; opacity:.55; animation:dash2 6.5s linear infinite reverse; }
-      .pulse { animation:pulse 2.4s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
-      .float { animation:float 4s ease-in-out infinite; }
-      .float2 { animation:float 4.8s ease-in-out infinite reverse; }
-      .blink { animation:blink 1.05s steps(1,end) infinite; }
-      .sweep { animation:sweep 4.8s ease-in-out infinite; }
-      .particleA { animation:particleA 7s ease-in-out infinite; }
-      .particleB { animation:particleB 9s ease-in-out infinite reverse; }
-      @keyframes dash { to { stroke-dashoffset:-72; } }
-      @keyframes dash2 { to { stroke-dashoffset:-90; } }
-      @keyframes pulse { 0%,100% { opacity:.58; transform:scale(1); } 50% { opacity:1; transform:scale(1.2); } }
-      @keyframes float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-5px); } }
-      @keyframes blink { 0%,46% { opacity:1; } 47%,100% { opacity:0; } }
-      @keyframes sweep { 0%,12% { transform:translateX(-220px); opacity:0; } 25%,60% { opacity:1; } 72%,100% { transform:translateX(670px); opacity:0; } }
-      @keyframes particleA { 0%,100% { transform:translate(0,0); opacity:.18; } 50% { transform:translate(22px,-12px); opacity:.7; } }
-      @keyframes particleB { 0%,100% { transform:translate(0,0); opacity:.15; } 50% { transform:translate(-18px,14px); opacity:.55; } }
+      .muted { fill: #94a3b8; }
+      .line { stroke: #38bdf8; stroke-opacity: .24; stroke-width: 1.4; }
+      .node { fill: #0f1f38; stroke: #38bdf8; stroke-opacity: .48; stroke-width: 1.2; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .blink { animation: blink 1.1s steps(1,end) infinite; }
+      .flow { animation: dash 5s linear infinite; }
+      @keyframes pulse { 0%,100% { opacity:.62; transform:scale(1); } 50% { opacity:1; transform:scale(1.18); } }
+      @keyframes blink { 0%,45% { opacity:1; } 46%,100% { opacity:0; } }
+      @keyframes dash { to { stroke-dashoffset:-54; } }
       @media (prefers-reduced-motion: reduce) {
-        .flow,.flow2,.pulse,.float,.float2,.blink,.sweep,.particleA,.particleB { animation:none; }
+        .pulse, .blink, .flow { animation:none; }
       }
     </style>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#blueGlow)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#cyanGlow)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#38bdf8" stroke-opacity=".22"/>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glowB)"/>
 
-  <!-- ambient particles -->
-  <g fill="#38bdf8">
-    <circle cx="618" cy="55" r="2.4" opacity=".35" class="particleA"/>
-    <circle cx="1112" cy="72" r="2" opacity=".25" class="particleB"/>
-    <circle cx="1038" cy="314" r="1.8" opacity=".3" class="particleA"/>
-    <circle cx="674" cy="302" r="1.6" opacity=".22" class="particleB"/>
-  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#3b82f6" stroke-opacity=".24"/>
 
-  <!-- console chrome -->
-  <g transform="translate(60 38)">
+  <!-- top console bar -->
+  <g transform="translate(64 42)">
     <circle cx="0" cy="0" r="5" fill="#334155"/>
-    <circle cx="19" cy="0" r="5" fill="#334155"/>
-    <circle cx="38" cy="0" r="5" fill="#334155"/>
-    <text x="66" y="5" class="mono" font-size="12" fill="#64748b" letter-spacing=".5">harun.dev / engineering-profile</text>
+    <circle cx="20" cy="0" r="5" fill="#334155"/>
+    <circle cx="40" cy="0" r="5" fill="#334155"/>
+    <text x="68" y="5" class="mono" font-size="13" fill="#64748b">harun.dev / profile</text>
   </g>
 
   <!-- availability -->
-  <g transform="translate(952 28)">
-    <rect width="184" height="38" rx="19" fill="#061a18" stroke="#22c55e" stroke-opacity=".35"/>
-    <circle cx="20" cy="19" r="8" fill="#22c55e" fill-opacity=".14" filter="url(#glow)" class="pulse"/>
-    <circle cx="20" cy="19" r="4.5" fill="#4ade80" class="pulse"/>
-    <text x="38" y="24" class="mono" font-size="12" font-weight="700" fill="#bbf7d0" letter-spacing="1">OPEN TO WORK</text>
+  <g transform="translate(963 39)">
+    <rect width="173" height="34" rx="17" fill="#0d1b2f" stroke="#22c55e" stroke-opacity=".24"/>
+    <circle cx="19" cy="17" r="5" fill="#22c55e" class="pulse"/>
+    <text x="34" y="22" class="mono" font-size="12" fill="#bbf7d0" letter-spacing=".9">OPEN TO WORK</text>
   </g>
 
-  <!-- identity -->
-  <text x="72" y="163" class="sans" font-size="70" font-weight="900" letter-spacing="1.5" fill="url(#nameGrad)">HARUN</text>
-  <g clip-path="url(#nameClip)" class="sweep">
-    <rect x="-180" y="88" width="160" height="95" fill="url(#shine)" transform="skewX(-18)"/>
+  <!-- main identity -->
+  <text x="74" y="122" class="sans" font-size="18" font-weight="700" letter-spacing="4.8" fill="#7dd3fc">HARUN</text>
+
+  <text x="72" y="171" class="sans" font-size="42" font-weight="800" fill="#f8fafc">Backend-Focused</text>
+  <text x="72" y="215" class="sans" font-size="42" font-weight="800" fill="url(#accent)">Full Stack Developer</text>
+
+  <text x="74" y="252" class="mono muted" font-size="16">TypeScript  /  Node.js  /  NestJS  /  React  /  Next.js  /  PostgreSQL  /  Prisma</text>
+
+  <!-- command line -->
+  <g transform="translate(74 282)">
+    <rect width="568" height="34" rx="9" fill="#07101c" stroke="#1d4ed8" stroke-opacity=".22"/>
+    <text x="15" y="22" class="mono" font-size="13" fill="#64748b">$</text>
+    <text x="33" y="22" class="mono" font-size="13" fill="#cbd5e1">build --secure --scalable --maintainable</text>
+    <rect x="365" y="10" width="7" height="16" rx="1" fill="#22d3ee" class="blink"/>
   </g>
 
-  <text x="74" y="205" class="sans" font-size="31" font-weight="750" fill="url(#roleGrad)">Backend-Focused Full Stack Developer</text>
-  <text x="76" y="236" class="sans" font-size="15" fill="#a8b4c7" letter-spacing=".55">Building secure, scalable, modern web systems.</text>
+  <!-- architecture graphic -->
+  <g transform="translate(748 102)">
+    <path d="M40 58 C95 14, 150 14, 202 58 S310 102, 356 58" fill="none" class="line flow" stroke-dasharray="6 8"/>
+    <path d="M40 136 C95 92, 150 92, 202 136 S310 180, 356 136" fill="none" class="line flow" stroke-dasharray="6 8"/>
 
-  <!-- stack bar -->
-  <g transform="translate(74 263)">
-    <rect width="560" height="58" rx="15" fill="#07101d" fill-opacity=".86" stroke="#2563eb" stroke-opacity=".32"/>
-    <text x="18" y="35" class="mono" font-size="13" fill="#cbd5e1">TypeScript</text>
-    <text x="104" y="35" class="mono" font-size="12" fill="#475569">/</text>
-    <text x="123" y="35" class="mono" font-size="13" fill="#cbd5e1">Node.js</text>
-    <text x="184" y="35" class="mono" font-size="12" fill="#475569">/</text>
-    <text x="204" y="35" class="mono" font-size="13" fill="#cbd5e1">NestJS</text>
-    <text x="262" y="35" class="mono" font-size="12" fill="#475569">/</text>
-    <text x="282" y="35" class="mono" font-size="13" fill="#cbd5e1">React</text>
-    <text x="329" y="35" class="mono" font-size="12" fill="#475569">/</text>
-    <text x="348" y="35" class="mono" font-size="13" fill="#cbd5e1">Next.js</text>
-    <text x="407" y="35" class="mono" font-size="12" fill="#475569">/</text>
-    <text x="426" y="35" class="mono" font-size="13" fill="#cbd5e1">Postgres</text>
-    <text x="493" y="35" class="mono" font-size="12" fill="#475569">/</text>
-    <text x="512" y="35" class="mono" font-size="13" fill="#cbd5e1">Prisma</text>
-  </g>
+    <g>
+      <rect x="0" y="40" width="98" height="54" rx="13" class="node"/>
+      <text x="49" y="64" text-anchor="middle" class="mono" font-size="11" fill="#7dd3fc">CLIENT</text>
+      <text x="49" y="80" text-anchor="middle" class="mono" font-size="10" fill="#64748b">React / Next</text>
+    </g>
 
-  <!-- architecture lanes -->
-  <path d="M695 112 C760 71 807 79 855 128 C904 178 967 172 1017 130 C1058 96 1091 96 1140 122" class="flow"/>
-  <path d="M694 220 C756 180 810 190 856 222 C905 256 965 252 1019 216 C1065 186 1093 189 1142 212" class="flow"/>
-  <path d="M730 166 C820 166 912 166 1094 166" class="flow2"/>
+    <g>
+      <rect x="154" y="40" width="98" height="54" rx="13" class="node"/>
+      <text x="203" y="64" text-anchor="middle" class="mono" font-size="11" fill="#a5f3fc">API</text>
+      <text x="203" y="80" text-anchor="middle" class="mono" font-size="10" fill="#64748b">Node / Nest</text>
+    </g>
 
-  <!-- central API chip -->
-  <g transform="translate(842 118)" class="float">
-    <rect x="0" y="0" width="148" height="102" rx="22" fill="#071426" stroke="#38bdf8" stroke-opacity=".7" stroke-width="1.5"/>
-    <rect x="11" y="11" width="126" height="80" rx="16" fill="#0b1f38" stroke="#22d3ee" stroke-opacity=".28"/>
-    <rect x="26" y="26" width="96" height="48" rx="12" fill="#0d2746" stroke="#60a5fa" stroke-opacity=".52"/>
-    <text x="74" y="57" text-anchor="middle" class="sans" font-size="24" font-weight="850" fill="#dbeafe">API</text>
-    <circle cx="16" cy="91" r="2" fill="#22d3ee" class="pulse"/>
-    <circle cx="28" cy="91" r="2" fill="#3b82f6" class="pulse"/>
-    <circle cx="40" cy="91" r="2" fill="#8b5cf6" class="pulse"/>
-  </g>
-  <ellipse cx="916" cy="222" rx="78" ry="18" fill="#0ea5e9" fill-opacity=".12" filter="url(#softGlow)" class="pulse"/>
+    <g>
+      <rect x="308" y="40" width="98" height="54" rx="13" class="node"/>
+      <text x="357" y="64" text-anchor="middle" class="mono" font-size="11" fill="#c4b5fd">DATA</text>
+      <text x="357" y="80" text-anchor="middle" class="mono" font-size="10" fill="#64748b">Postgres</text>
+    </g>
 
-  <!-- nodes -->
-  <g transform="translate(689 86)" class="float2">
-    <rect width="112" height="62" rx="15" class="node"/>
-    <text x="56" y="27" text-anchor="middle" class="mono" font-size="11" fill="#7dd3fc">CLIENT</text>
-    <text x="56" y="45" text-anchor="middle" class="mono" font-size="9.5" fill="#64748b">React / Next</text>
-  </g>
-  <g transform="translate(1031 83)" class="float">
-    <rect width="112" height="62" rx="15" class="node"/>
-    <text x="56" y="27" text-anchor="middle" class="mono" font-size="11" fill="#a5f3fc">AUTH</text>
-    <text x="56" y="45" text-anchor="middle" class="mono" font-size="9.5" fill="#64748b">JWT / RBAC</text>
-  </g>
-  <g transform="translate(712 230)" class="float">
-    <rect width="112" height="62" rx="15" class="node"/>
-    <text x="56" y="27" text-anchor="middle" class="mono" font-size="11" fill="#fde68a">PAYMENTS</text>
-    <text x="56" y="45" text-anchor="middle" class="mono" font-size="9.5" fill="#64748b">Stripe</text>
-  </g>
-  <g transform="translate(1031 229)" class="float2">
-    <rect width="112" height="62" rx="15" class="node"/>
-    <text x="56" y="27" text-anchor="middle" class="mono" font-size="11" fill="#c4b5fd">DATA</text>
-    <text x="56" y="45" text-anchor="middle" class="mono" font-size="9.5" fill="#64748b">PostgreSQL</text>
+    <g>
+      <rect x="77" y="118" width="98" height="54" rx="13" class="node"/>
+      <text x="126" y="142" text-anchor="middle" class="mono" font-size="11" fill="#86efac">AUTH</text>
+      <text x="126" y="158" text-anchor="middle" class="mono" font-size="10" fill="#64748b">JWT / RBAC</text>
+    </g>
+
+    <g>
+      <rect x="231" y="118" width="98" height="54" rx="13" class="node"/>
+      <text x="280" y="142" text-anchor="middle" class="mono" font-size="11" fill="#fde68a">PAYMENTS</text>
+      <text x="280" y="158" text-anchor="middle" class="mono" font-size="10" fill="#64748b">Stripe</text>
+    </g>
+
+    <circle cx="202" cy="67" r="14" fill="#0ea5e9" fill-opacity=".12" filter="url(#softGlow)" class="pulse"/>
+    <circle cx="202" cy="67" r="3.6" fill="#22d3ee"/>
   </g>
 
-  <!-- terminal -->
-  <g transform="translate(690 312)">
-    <text x="0" y="0" class="mono" font-size="11" fill="#475569">$</text>
-    <text x="16" y="0" class="mono" font-size="11" fill="#94a3b8">build --secure --scalable --maintainable</text>
-    <rect x="272" y="-12" width="6" height="14" rx="1" fill="#22d3ee" class="blink"/>
-  </g>
-  <text x="1138" y="335" text-anchor="end" class="mono" font-size="9" fill="#3f536c" letter-spacing="1.3">BUILD / SECURE / SCALE</text>
+  <text x="1089" y="317" text-anchor="end" class="mono" font-size="10" fill="#475569" letter-spacing="1.2">BUILD / SECURE / SCALE</text>
 </svg>

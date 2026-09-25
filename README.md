@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://portfolio-harun-liard.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="./assets/profile/cta/portfolio-button.svg" alt="Portfolio" height="58" />
   </a>
   <a href="https://www.linkedin.com/in/harunmern/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/profile/cta/linkedin-button.svg" alt="LinkedIn" height="58" />
   </a>
   <a href="https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd">
-    <img src="https://img.shields.io/badge/Resume-View-334155?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <img src="./assets/profile/cta/resume-button.svg" alt="Resume" height="58" />
   </a>
   <a href="mailto:harunabhi4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/profile/cta/email-button.svg" alt="Email" height="58" />
   </a>
 </p>
 

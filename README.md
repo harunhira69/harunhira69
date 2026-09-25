@@ -28,7 +28,13 @@
   and modern full-stack development.
 </p>
 
----
+<p align="center">
+  <code>APIs</code> · <code>Authentication</code> · <code>RBAC</code> · <code>PostgreSQL</code> · <code>Prisma</code> · <code>Payments</code>
+</p>
+
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ## ⚡ Engineering Snapshot
 
@@ -43,7 +49,9 @@
 
 I started with frontend development and gradually moved deeper into backend engineering, relational data modeling, authentication, payments, and production-oriented application structure. My current direction is becoming a stronger backend-focused full stack engineer without losing the ability to build polished frontend experiences.
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ## ⌁ What I Engineer
 
@@ -76,7 +84,9 @@ I started with frontend development and gradually moved deeper into backend engi
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ## ◈ Featured Engineering Work
 
@@ -96,7 +106,9 @@ Backend API for a gear rental platform with authentication, users, providers, ge
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ### PrismaPress
 
@@ -111,7 +123,9 @@ TypeScript backend for a publishing platform with authentication, user profiles,
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ### Football Ticket Booking — Database Design
 
@@ -126,7 +140,9 @@ Relational database project modeling users, football matches, and ticket booking
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ### PawMart
 
@@ -144,7 +160,9 @@ Full-stack pet adoption and supply marketplace with Firebase authentication, lis
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ### Personal Portfolio
 
@@ -162,7 +180,9 @@ My developer portfolio focused on project storytelling, modern interaction desig
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ## ◎ Current Build & Exploration
 
@@ -179,7 +199,9 @@ Approach       : Learn → Build → Test → Debug → Improve
 
 NestJS is part of my current backend growth path, so I use it in active project work while continuing to strengthen the underlying architecture and production patterns.
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ## ◇ Engineering Toolbox
 
@@ -197,7 +219,9 @@ NestJS is part of my current backend growth path, so I use it in active project 
 | **Payments** | Stripe |
 | **Tools** | Git, GitHub, Postman, Docker, VS Code |
 
----
+<p align="center">
+  <img src="./assets/profile/divider.svg" alt="" width="100%" />
+</p>
 
 ## 🤝 Collaboration & Opportunities
 
@@ -206,14 +230,9 @@ I am open to **Full Stack Developer** and **Backend Developer** opportunities, t
 If you are building something where secure APIs, authentication, data modeling, payment workflows, or full-stack implementation matter, feel free to connect.
 
 <p align="center">
-  <a href="https://portfolio-harun-liard.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_My_Work-Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Harun's portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/harunmern/">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Harun on LinkedIn" />
-  </a>
+  <strong>Build secure. Design clearly. Scale intentionally.</strong>
 </p>
 
 <p align="center">
-  <sub>Backend-Focused Full Stack Developer • Building secure, scalable web systems</sub>
+  <sub>Backend-Focused Full Stack Developer • TypeScript • Node.js • PostgreSQL • Modern Full-Stack Engineering</sub>
 </p>

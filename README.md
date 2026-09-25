@@ -130,9 +130,9 @@ Relational database project modeling users, football matches, and ticket booking
 
 ### PawMart
 
-Full-stack pet adoption and supply marketplace with user authentication, protected workflows, listings, orders, and downloadable reports.
+Full-stack pet adoption and supply marketplace with Firebase authentication, listings, orders, MongoDB-backed APIs, and downloadable reports.
 
-**Engineering:** full-stack integration • Firebase auth • protected routes • CRUD workflows • MongoDB API  
+**Engineering:** full-stack integration • Firebase auth • CRUD workflows • MongoDB API • client/server deployment  
 **Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Firebase` • `Tailwind CSS`
 
 <p>

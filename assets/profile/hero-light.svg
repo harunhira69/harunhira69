@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Harun — Full Stack Developer</title>
+  <desc id="desc">Backend engineering, APIs, and web applications. TypeScript, Node.js, React, and PostgreSQL. A restrained light banner with a geometric representation of connected application layers.</desc>
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" rx="14" fill="#f5f4ef"/>
+  <rect x=".5" y=".5" width="1199" height="279" rx="13.5" fill="none" stroke="#d4ddd7"/>
+  <rect x="64" y="47" width="34" height="4" rx="2" fill="#087f73"/>
+
+  <text x="61" y="116" class="sans" font-size="66" font-weight="700" letter-spacing="1" fill="#142f31">HARUN</text>
+  <text x="64" y="158" class="sans" font-size="31" font-weight="500" fill="#142f31">Full Stack Developer</text>
+  <text x="65" y="192" class="sans" font-size="20" fill="#516765">Backend engineering · APIs · Web applications</text>
+
+  <path d="M64 216H734" stroke="#d4ddd7"/>
+  <text x="65" y="244" class="sans" font-size="16" letter-spacing=".3" fill="#516765">TypeScript · Node.js · React · PostgreSQL</text>
+
+  <!-- Connected application layers, kept secondary to the profile identity. -->
+  <g fill="none" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M831 71H1087M831 209H1087" stroke="#d4ddd7"/>
+    <path d="M965 96H985V140H1005M965 184H985V140" stroke="#9cb7ae"/>
+    <rect x="865" y="70" width="100" height="52" rx="8" fill="#edf2ed" stroke="#9cb7ae"/>
+    <rect x="1005" y="114" width="100" height="52" rx="8" fill="#edf2ed" stroke="#087f73"/>
+    <rect x="865" y="158" width="100" height="52" rx="8" fill="#edf2ed" stroke="#9cb7ae"/>
+    <path d="M889 91H941M889 101H923M1029 135H1081M1029 145H1063M889 179H941M889 189H923" stroke="#9cb7ae" stroke-linecap="round"/>
+  </g>
+  <circle cx="985" cy="140" r="4" fill="#087f73"/>
+</svg>

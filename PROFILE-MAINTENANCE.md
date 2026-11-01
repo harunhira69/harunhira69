@@ -4,13 +4,22 @@ This file documents the intended public profile configuration for **harunhira69*
 
 ## Positioning
 
-**Primary identity:** Backend-Focused Full Stack Developer
+**Primary identity:** Full Stack Developer · Backend Engineering
 
 **Short GitHub bio:**
 
-> Backend-Focused Full Stack Developer | TypeScript, Node.js, React & PostgreSQL | Building secure, scalable web applications
+> Full Stack Developer | Backend Engineering | TypeScript, Node.js, React & PostgreSQL
 
 NestJS should remain visible as an actively explored/used backend technology without implying senior-level specialization.
+
+## Profile Design
+
+- The public profile is rendered from `harunhira69/README.md`; the separate `harunhira69-profile` repository is not the profile entry point.
+- Use `assets/profile/hero.svg` for dark mode and `assets/profile/hero-light.svg` for light mode. Keep both variants consistent when updating the banner.
+- Keep the introduction short, put selected projects before the toolkit, and use descriptive text links that work without third-party badge services.
+- Prefer single-column project sections so the README remains readable on narrow screens.
+- Keep implementation status explicit and describe concrete features rather than promising security, scalability, or production readiness.
+- After banner or layout changes, check both themes and a narrow viewport. GitHub does not support arbitrary README CSS or JavaScript.
 
 ## Recommended Pinned Repositories
 
@@ -93,15 +102,13 @@ Keep the existing database-focused topics: `postgresql`, `sql`, `database-design
 - Resume: https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd
 - Email: harunabhi4@gmail.com
 
-## Merge Order
+## Publishing and Maintenance
 
-For the cleanest public launch:
-
-1. Merge project documentation PRs first.
-2. Apply repository descriptions/topics.
-3. Set the recommended pinned repositories.
-4. Merge the profile README PR last.
-5. Open the public profile in both GitHub light and dark themes and verify external images/links manually.
+- The README is published on the GitHub profile when the changes reach this repository's default branch, `main`.
+- Validate both banner themes, local asset references, and the README at desktop and narrow widths before publishing.
+- Keep account bio, pins, and project repository metadata aligned with the recommendations above; these are separate GitHub settings.
+- The résumé link currently opens a Google Drive folder. Keep the link label explicit, or replace it with a verified direct résumé link when available.
+- After publishing, verify the default-branch commit and the rendered public profile.
 
 ## Accuracy Rules
 

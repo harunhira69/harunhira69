@@ -15,11 +15,11 @@ NestJS should remain visible as an actively explored/used backend technology wit
 ## Profile Design
 
 - The public profile is rendered from `harunhira69/README.md`; the separate `harunhira69-profile` repository is not the profile entry point.
-- Use `assets/profile/hero.svg` for dark mode and `assets/profile/hero-light.svg` for light mode. Keep both variants consistent when updating the banner.
-- Use the ink, warm-white, and electric-blue identity consistently across the hero and project artwork. The hero provides the profile identity; avoid repeating a name/role heading beneath it.
-- Feature GearUp and PrismaPress with local theme-aware project illustrations and concise Markdown descriptions. The artwork is conceptual, not an application screenshot or a deployment architecture claim.
+- The user-selected palette is white and charcoal: white backgrounds, dark text, and neutral gray accents. Both `assets/profile/hero.svg` and `assets/profile/hero-light.svg` intentionally use this same palette, regardless of the GitHub theme.
+- Use the white-and-charcoal palette consistently across the hero and project artwork; avoid navy, blue, or purple artwork accents. The hero provides the profile identity; avoid repeating a name/role heading beneath it.
+- Feature GearUp and PrismaPress with local project illustrations and concise Markdown descriptions. The artwork is conceptual, not an application screenshot or a deployment architecture claim.
 - Keep the introduction short, group supporting projects under More work, and use descriptive text links that work without third-party badge services.
-- Keep both light and dark variants in `assets/profile/projects/` synchronized; keep the core stack as short text groups instead of a large table.
+- Keep both source variants in `assets/profile/projects/` visually identical in the selected palette; keep the core stack as short text groups instead of a large table.
 - Prefer single-column project sections so the README remains readable on narrow screens.
 - Keep implementation status explicit and describe concrete features rather than promising security, scalability, or production readiness.
 - After banner or layout changes, check both themes and a narrow viewport. GitHub does not support arbitrary README CSS or JavaScript.

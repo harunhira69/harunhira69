@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Publishing platform API — Posts. Profiles. Subscriptions.</title>
+  <desc id="desc">Conceptual project artwork showing post, profile, and subscription workflows. This is an illustration, not an application screenshot.</desc>
+  <defs><style>.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}</style><clipPath id="card-clip"><rect x="1" y="1" width="1198" height="278" rx="20"/></clipPath></defs>
+  <g clip-path="url(#card-clip)">
+  <rect x="1" y="1" width="1198" height="278" rx="20" fill="#10172b" stroke="#2a3650"/>
+  <path d="M660 1V279" stroke="#2a3650"/>
+  <circle cx="1104" cy="43" r="154" fill="#19294d"/>
+  <circle cx="1104" cy="43" r="123" fill="none" stroke="#2a3650"/>
+  <rect x="48" y="39" width="5" height="20" rx="2" fill="#9e7bff"/>
+  <text x="66" y="55" class="sans" font-size="20" font-weight="600" letter-spacing="2" fill="#abb8d4">PUBLISHING PLATFORM API</text>
+  <g class="sans" font-size="58" font-weight="650" letter-spacing="-1.4" fill="#f7f8fc">
+    <text x="48" y="137">Posts. Profiles.</text>
+    <text x="48" y="205">Subscriptions.</text>
+  </g>
+  <path d="M775 111V138H879M973 118H998V190H1031" fill="none" stroke="#9e7bff" stroke-opacity=".6" stroke-width="2"/>
+  <rect x="726" y="25" width="98" height="87" rx="18" fill="#18233c" stroke="#2a3650"/>
+  <rect x="878" y="72" width="96" height="92" rx="18" fill="#18233c" stroke="#9e7bff"/>
+  <rect x="1027" y="146" width="96" height="87" rx="18" fill="#18233c" stroke="#2a3650"/>
+  
+   <g transform="translate(775 68)" fill="none" stroke="#9e7bff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-19-24H9L21-12V25H-19Z M9-24V-12H21M-7 1H9M-7 12H9"/>
+   </g>
+   <g transform="translate(926 118)" fill="none" stroke="#9e7bff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="0" cy="-10" r="11"/><path d="M-22 26V20C-22 1 22 1 22 20V26"/>
+   </g>
+   <g transform="translate(1075 190)" fill="none" stroke="#9e7bff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-25-7A26 26 0 0 1 44-14M25 7A26 26 0 0 1-44 14" transform="scale(.8)"/>
+    <path d="M24-23L35-12L23-3M-24 23L-35 12L-23 3"/>
+   </g>
+  <circle cx="775" cy="138" r="4" fill="#9e7bff"/>
+  <circle cx="998" cy="190" r="4" fill="#9e7bff"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="278" rx="20" fill="none" stroke="#2a3650"/>
+</svg>

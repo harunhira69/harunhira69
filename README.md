@@ -1,68 +1,69 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg" />
-  <img src="./assets/profile/hero-light.svg" alt="Harun — Full Stack Developer, Backend Engineering" width="1200" />
+  <img src="./assets/profile/hero-light.svg" alt="Harun — Full Stack Developer with a focus on backend engineering" width="1200" />
 </picture>
 
-# Harun
+<p align="center">
+  <a href="https://portfolio-harun-liard.vercel.app/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/harunmern/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:harunabhi4@gmail.com"><strong>Email</strong></a>
+</p>
 
-**Full Stack Developer · Backend Engineering**
+I'm **Harun**, a full stack developer based in Bangladesh. I build TypeScript APIs, model relational data, and connect backend workflows with React interfaces.
 
-Based in Bangladesh. I develop APIs and web applications with TypeScript, Node.js, React, and PostgreSQL. My work focuses on authentication, relational data modeling, and application workflows, connecting backend services with practical user interfaces.
-
-[Portfolio](https://portfolio-harun-liard.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/harunmern/) · [Résumé folder](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd) · [Email](mailto:harunabhi4@gmail.com)
-
-## Selected projects
+## Selected work
 
 ### [GearUp Backend](https://github.com/harunhira69/gearup-backend)
 
-A gear rental API with provider, customer, and admin workflows. Covers role-based access, gear listings, rentals, reviews, payments, and input validation in a modular backend.
+<a href="https://github.com/harunhira69/gearup-backend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/projects/gearup.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/projects/gearup-light.svg" />
+    <img src="./assets/profile/projects/gearup-light.svg" alt="GearUp rental API — role-based customer, provider, and admin workflows with rentals and payments" width="1200" />
+  </picture>
+</a>
 
-**Stack:** TypeScript, Express, Prisma, PostgreSQL, JWT, Stripe, Zod
+A rental platform API connecting customers, equipment providers, and admins. Covers gear listings, rental and review workflows, input validation, and Stripe payments.
 
-[Source code](https://github.com/harunhira69/gearup-backend) · [API deployment](https://gearup-backend-tan.vercel.app/)
+**TypeScript · Express · Prisma · PostgreSQL · JWT · Stripe · Zod**
+
+[Explore repository →](https://github.com/harunhira69/gearup-backend) · [API deployment](https://gearup-backend-tan.vercel.app/)
 
 ### [PrismaPress](https://github.com/harunhira69/prisma_press)
 
-A publishing backend with JWT authentication, user profiles, post management, search, statistics, and Stripe subscriptions. The comments controller and service logic are in development.
+<a href="https://github.com/harunhira69/prisma_press">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/projects/prismapress.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/projects/prismapress-light.svg" />
+    <img src="./assets/profile/projects/prismapress-light.svg" alt="PrismaPress publishing API — post, profile, and subscription workflows" width="1200" />
+  </picture>
+</a>
 
-**Stack:** TypeScript, Express, Prisma, PostgreSQL, Stripe
+A publishing API with JWT authentication, user profiles, post search and statistics, and Stripe subscriptions, backed by Prisma and PostgreSQL. The comments module is in development.
 
-[Source code](https://github.com/harunhira69/prisma_press)
+**TypeScript · Express · Prisma · PostgreSQL · Stripe**
 
-### [Football Ticket Booking](https://github.com/harunhira69/football_ticket_booking)
+[Explore repository →](https://github.com/harunhira69/prisma_press)
 
-A relational database project modeling users, matches, and ticket bookings. Includes entity relationships, primary and foreign keys, constraints, joins, aggregates, and subqueries.
+## More work
 
-**Stack:** PostgreSQL, SQL, Lucidchart
+- **[Football Ticket Booking](https://github.com/harunhira69/football_ticket_booking)** — PostgreSQL schema design, relational constraints, joins, aggregates, and subqueries.
+- **[PawMart](https://github.com/harunhira69/PawMart-client)** — A React/Express marketplace with Firebase sign-in, MongoDB, listings, orders, and reports. [Backend](https://github.com/harunhira69/PawMart-server) · [Application](https://pawmart-adf30.web.app)
+- **[Personal portfolio](https://github.com/harunhira69/portfolio-harun)** — A React interface built with GSAP, Locomotive Scroll, Sass, and Vite. [Visit](https://portfolio-harun-liard.vercel.app/)
 
-[Schema and queries](https://github.com/harunhira69/football_ticket_booking)
+## Core stack
 
-### [PawMart](https://github.com/harunhira69/PawMart-client)
+**Backend** &nbsp; TypeScript · Node.js · Express · REST APIs · JWT · Zod
 
-A pet adoption and supplies marketplace with a React frontend and an Express/MongoDB API. Features Firebase sign-in, listings, order workflows, and downloadable reports.
+**Frontend** &nbsp; React · Next.js · Tailwind CSS
 
-**Stack:** React, Tailwind CSS, Express, MongoDB, Firebase
+**Data & integrations** &nbsp; PostgreSQL · Prisma · MongoDB · Stripe · Firebase
 
-[Frontend](https://github.com/harunhira69/PawMart-client) · [Backend](https://github.com/harunhira69/PawMart-server) · [Application](https://pawmart-adf30.web.app)
+**Current focus:** NestJS and Fastify through active project work, with an emphasis on API testing, authorization, and error handling.
 
-## Technical skills
+---
 
-| Area | Technologies |
-| --- | --- |
-| Languages | TypeScript, JavaScript, SQL |
-| Backend | Node.js, Express, REST APIs, JWT, Zod |
-| Frontend | React, Next.js, Tailwind CSS |
-| Data | PostgreSQL, Prisma, MongoDB |
-| Integrations | Stripe, Firebase Authentication |
-| Tools | Git, GitHub, Postman |
+### Open to backend and full stack opportunities.
 
-## Current focus
-
-Exploring NestJS and Fastify through project work, while strengthening API testing, authorization, error handling, and system design fundamentals.
-
-## Contact
-
-Open to backend and full stack development roles, freelance projects, and open-source collaboration.
-
-[harunabhi4@gmail.com](mailto:harunabhi4@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harunmern/) · [Portfolio](https://portfolio-harun-liard.vercel.app/)
+For roles, freelance projects, or open-source collaboration: **[harunabhi4@gmail.com](mailto:harunabhi4@gmail.com)**. [Résumé folder](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd).

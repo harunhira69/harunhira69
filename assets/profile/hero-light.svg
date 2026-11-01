@@ -1,31 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">Harun — Full Stack Developer</title>
-  <desc id="desc">Backend engineering, APIs, and web applications. TypeScript, Node.js, React, and PostgreSQL. A restrained light banner with a geometric representation of connected application layers.</desc>
+  <desc id="desc">Harun, a full stack developer with a focus on backend engineering. A typographic profile header with a custom geometric H monogram.</desc>
   <defs>
+    <clipPath id="card"><rect width="1200" height="400" rx="18"/></clipPath>
     <style>
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
     </style>
   </defs>
 
-  <rect width="1200" height="280" rx="14" fill="#f5f4ef"/>
-  <rect x=".5" y=".5" width="1199" height="279" rx="13.5" fill="none" stroke="#d4ddd7"/>
-  <rect x="64" y="47" width="34" height="4" rx="2" fill="#087f73"/>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="400" fill="#F7F8FC"/>
+    <rect x="800" width="400" height="400" fill="#EDF1FC"/>
+    <path d="M800 0V400" stroke="#D9DFEE"/>
 
-  <text x="61" y="116" class="sans" font-size="66" font-weight="700" letter-spacing="1" fill="#142f31">HARUN</text>
-  <text x="64" y="158" class="sans" font-size="31" font-weight="500" fill="#142f31">Full Stack Developer</text>
-  <text x="65" y="192" class="sans" font-size="20" fill="#516765">Backend engineering · APIs · Web applications</text>
+    <!-- The identity stays readable while the supporting page text carries detail. -->
+    <rect x="64" y="61" width="44" height="5" rx="2.5" fill="#6384FF"/>
+    <text x="59" y="187" class="sans" font-size="112" font-weight="750" letter-spacing="-5" fill="#0B1020">HARUN</text>
+    <text x="65" y="247" class="sans" font-size="38" font-weight="500" letter-spacing="-.7" fill="#0B1020">Full Stack Developer</text>
+    <text x="66" y="288" class="sans" font-size="24" letter-spacing=".1" fill="#53617C">Backend engineering</text>
+    <path d="M65 326H734" stroke="#D4DCEE"/>
+    <text x="66" y="360" class="mono" font-size="15" letter-spacing="2.1" fill="#53617C">HARUNHIRA69</text>
 
-  <path d="M64 216H734" stroke="#d4ddd7"/>
-  <text x="65" y="244" class="sans" font-size="16" letter-spacing=".3" fill="#516765">TypeScript · Node.js · React · PostgreSQL</text>
-
-  <!-- Connected application layers, kept secondary to the profile identity. -->
-  <g fill="none" stroke-width="1.5" stroke-linejoin="round">
-    <path d="M831 71H1087M831 209H1087" stroke="#d4ddd7"/>
-    <path d="M965 96H985V140H1005M965 184H985V140" stroke="#9cb7ae"/>
-    <rect x="865" y="70" width="100" height="52" rx="8" fill="#edf2ed" stroke="#9cb7ae"/>
-    <rect x="1005" y="114" width="100" height="52" rx="8" fill="#edf2ed" stroke="#087f73"/>
-    <rect x="865" y="158" width="100" height="52" rx="8" fill="#edf2ed" stroke="#9cb7ae"/>
-    <path d="M889 91H941M889 101H923M1029 135H1081M1029 145H1063M889 179H941M889 189H923" stroke="#9cb7ae" stroke-linecap="round"/>
+    <!-- A bespoke H: aligned pillars with an offset connecting bar. -->
+    <circle cx="1000" cy="200" r="137" fill="none" stroke="#D4DCEE"/>
+    <path d="M838 200H862M1138 200H1162M1000 38V62M1000 338V362" stroke="#D4DCEE" stroke-width="1.5"/>
+    <path d="M907 116H945V181H1035V94H1073V282H1035V219H945V306H907Z" fill="#6384FF"/>
+    <path d="M945 181H1035V219H945Z" fill="#4362DC"/>
   </g>
-  <circle cx="985" cy="140" r="4" fill="#087f73"/>
+  <rect x=".5" y=".5" width="1199" height="399" rx="17.5" fill="none" stroke="#D9DFEE"/>
 </svg>

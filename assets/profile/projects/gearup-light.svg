@@ -17,7 +17,7 @@
   <rect x="726" y="25" width="98" height="87" rx="18" fill="#ffffff" stroke="#ccd5e8"/>
   <rect x="878" y="72" width="96" height="92" rx="18" fill="#ffffff" stroke="#6384ff"/>
   <rect x="1027" y="146" width="96" height="87" rx="18" fill="#ffffff" stroke="#ccd5e8"/>
-  
+
    <g transform="translate(775 68)" fill="none" stroke="#6384ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="0" cy="0" r="10"/><path d="M-21 32V26C-21 6 21 6 21 26V32"/>
    </g>

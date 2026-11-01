@@ -17,7 +17,7 @@
   <rect x="726" y="25" width="98" height="87" rx="18" fill="#18233c" stroke="#2a3650"/>
   <rect x="878" y="72" width="96" height="92" rx="18" fill="#18233c" stroke="#9e7bff"/>
   <rect x="1027" y="146" width="96" height="87" rx="18" fill="#18233c" stroke="#2a3650"/>
-  
+
    <g transform="translate(775 68)" fill="none" stroke="#9e7bff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M-19-24H9L21-12V25H-19Z M9-24V-12H21M-7 1H9M-7 12H9"/>
    </g>

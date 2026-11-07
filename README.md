@@ -1,16 +1,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg" />
-  <img src="./assets/profile/hero-light.svg" alt="Harun — Full Stack Developer with a focus on backend engineering" width="1200" />
+  <img src="./assets/profile/hero-light.svg" alt="Harun — Backend-Focused Full Stack Developer" width="1200" />
 </picture>
 
 <p align="center">
   <a href="https://portfolio-harun-liard.vercel.app/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/harunmern/"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd"><strong>Résumé</strong></a> &nbsp; · &nbsp;
   <a href="mailto:harunabhi4@gmail.com"><strong>Email</strong></a>
 </p>
 
-I'm **Harun**, a full stack developer based in Bangladesh. I build TypeScript APIs, model relational data, and connect backend workflows with React interfaces.
+I'm **Harun**, a backend-focused full stack developer based in Bangladesh. I build TypeScript APIs, design relational data models, implement authentication and payment workflows, and connect those systems to modern React interfaces.
+
+## Engineering focus
+
+- **Backend systems** — REST APIs, authentication, authorization, validation, error handling, and payment workflows.
+- **Data** — PostgreSQL, Prisma, relational modeling, query design, and MongoDB where document storage fits.
+- **Full-stack delivery** — React and Next.js interfaces connected to typed backend workflows.
+- **Current growth** — NestJS, Fastify, testing, and production backend patterns through active project work.
 
 ## Selected work
 
@@ -24,7 +32,7 @@ I'm **Harun**, a full stack developer based in Bangladesh. I build TypeScript AP
   </picture>
 </a>
 
-A rental platform API connecting customers, equipment providers, and admins. Covers gear listings, rental and review workflows, input validation, and Stripe payments.
+A role-based rental platform API connecting customers, equipment providers, and admins. It covers gear inventory, rentals, reviews, validation, and Stripe payment workflows.
 
 **TypeScript · Express · Prisma · PostgreSQL · JWT · Stripe · Zod**
 
@@ -40,30 +48,34 @@ A rental platform API connecting customers, equipment providers, and admins. Cov
   </picture>
 </a>
 
-A publishing API with JWT authentication, user profiles, post search and statistics, and Stripe subscriptions, backed by Prisma and PostgreSQL. The comments module is in development.
+A publishing API with JWT authentication, user profiles, post search and statistics, and Stripe subscriptions, backed by Prisma and PostgreSQL. The comments module is still in development.
 
-**TypeScript · Express · Prisma · PostgreSQL · Stripe**
+**TypeScript · Express · Prisma · PostgreSQL · JWT · Stripe**
 
 [Explore repository →](https://github.com/harunhira69/prisma_press)
 
 ## More work
 
 - **[Football Ticket Booking](https://github.com/harunhira69/football_ticket_booking)** — PostgreSQL schema design, relational constraints, joins, aggregates, and subqueries.
-- **[PawMart](https://github.com/harunhira69/PawMart-client)** — A React/Express marketplace with Firebase sign-in, MongoDB, listings, orders, and reports. [Backend](https://github.com/harunhira69/PawMart-server) · [Application](https://pawmart-adf30.web.app)
-- **[Personal portfolio](https://github.com/harunhira69/portfolio-harun)** — A React interface built with GSAP, Locomotive Scroll, Sass, and Vite. [Visit](https://portfolio-harun-liard.vercel.app/)
+- **[PawMart](https://github.com/harunhira69/PawMart-client)** — React/Express marketplace with Firebase authentication, MongoDB, listings, orders, and reports. [Backend](https://github.com/harunhira69/PawMart-server) · [Application](https://pawmart-adf30.web.app)
+- **[Personal Portfolio](https://github.com/harunhira69/portfolio-harun)** — React portfolio using GSAP, Locomotive Scroll, Sass, and Vite. [Visit](https://portfolio-harun-liard.vercel.app/)
 
 ## Core stack
 
-**Backend** &nbsp; TypeScript · Node.js · Express · REST APIs · JWT · Zod
+| Area | Technologies |
+| --- | --- |
+| **Backend** | TypeScript · Node.js · Express · REST APIs · JWT · Zod |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Data** | PostgreSQL · Prisma · MongoDB |
+| **Integrations** | Stripe · Firebase |
+| **Currently exploring** | NestJS · Fastify · API testing · production backend patterns |
 
-**Frontend** &nbsp; React · Next.js · Tailwind CSS
+### What I'm building now
 
-**Data & integrations** &nbsp; PostgreSQL · Prisma · MongoDB · Stripe · Firebase
-
-**Current focus:** NestJS and Fastify through active project work, with an emphasis on API testing, authorization, and error handling.
+I'm currently working on a production-oriented marketplace backend using **NestJS, Fastify, Prisma, and PostgreSQL**, with a focus on secure authentication, authorization, order workflows, and reliable API design.
 
 ---
 
-### Open to backend and full stack opportunities.
+### Open to backend and full stack opportunities
 
-For roles, freelance projects, or open-source collaboration: **[harunabhi4@gmail.com](mailto:harunabhi4@gmail.com)**. [Résumé folder](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd).
+For roles, freelance projects, or open-source collaboration: **[harunabhi4@gmail.com](mailto:harunabhi4@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/harunmern/) · [Résumé](https://drive.google.com/drive/folders/15wQGbXdHvG8Ml9yj5-YluGcUiWlWCvKd)
